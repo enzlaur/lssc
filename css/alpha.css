@@ -1,0 +1,12 @@
+
+#image-background {
+    width: 100%;
+    height: 40%;
+}
+
+#image-logo-white-main {
+    width: 50%;        
+    position: absolute;
+    left: 26%;
+    top: 25%;
+}
